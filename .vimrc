@@ -1,0 +1,1 @@
+/home/lxfy/.vimrc
